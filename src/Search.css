@@ -1,0 +1,13 @@
+.component{
+    display: grid;
+    justify-content: center;
+
+ 
+}
+
+.box{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 200px;
+    height: 5vh;
+}

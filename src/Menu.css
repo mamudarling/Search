@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    justify-content: space-around;
+    background-color:#343434;
+    /* color: wheat; */
+}
+.textarea{
+    color: white;
+    padding-top: 2rem;
+    font-size: 1rem;
+    text-decoration: none;
+    /* text-transform:upperc; */
+   
+}
+
+.textarea:hover{
+    color: black;
+    /* font-size: 1.2rem; */
+    font-weight: bolder
+}
